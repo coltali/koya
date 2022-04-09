@@ -1,0 +1,10 @@
+body {
+    background-color: dimgray;
+    color: snow;
+    max-width: 800px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
