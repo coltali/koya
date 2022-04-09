@@ -2,6 +2,7 @@ body {
     background-color: dimgray;
     color: snow;
     max-width: 800px;
+    margin: auto;
 }
 
 img {
